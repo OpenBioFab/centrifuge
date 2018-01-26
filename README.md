@@ -11,11 +11,11 @@ Contributor: Carlos E. Venegas (cvj_2311@hotmail.com)
 ## Hardware
 
 A custom Arduino UNO shield has been created for this project.
-The hardware has beed designed in Autodesk Inventor CAD software. Files were exported ready for laser-cutter.  
+The hardware has been designed in Autodesk Inventor CAD software. Files were exported ready for laser-cutter.  
 
 Contributor: Luis FLores (lefolindo@gmail.com)
 
-## Replication
+## Electronic components
 
 
 
